@@ -5,3 +5,7 @@ This is the readme
 ## Updates
 
 Adding changes for feature-update example
+
+## Even More changes
+
+Changes for automatic merge example
