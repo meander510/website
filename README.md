@@ -13,3 +13,5 @@ Changes for automatic merge example
 ### Updates from Master
 
 This will be painful
+The same file will be edited on another branch
+
