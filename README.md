@@ -6,18 +6,6 @@ This is the readme
 
 Adding changes for feature-update example
 
+*New Branch work*
+
 ### Heading 3
-
-Heading 3 added
-
-*Starred Text*
-
-Blockquote at work?
-> First line
-> Second line
-> Third line
-
-List:
-* Red
-* Blue
-* Green
